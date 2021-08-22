@@ -4,6 +4,7 @@ Regina Negrycz
 genglist@yahoo.com 
 Module 18 Challenge 
 Submitted 22 Aug 2021 
+crypto_clustering_code.ipynb
 Resources
 Images
 README
@@ -30,7 +31,8 @@ There are 532 cryptocurrencies tradable on the market.
 Visualizations:
 
 ### 3D Scatter Plot
-
+https://github.com/genlgist/Cryptocurrencies/blob/main/Images/3D_Scatter_Plot.PNG
 
 
 ## 2D Scatter Plot
+https://github.com/genlgist/Cryptocurrencies/blob/main/Images/2D_Scatter_Plot.PNG
